@@ -16,11 +16,11 @@ body{
 .justify-content-end{
     margin-right: 42px;
 }
-div a{
+ul li a{
     color: black;
     margin-top: 15px;
 }
-div a:hover{
+ul li a:hover{
     color:blanchedalmond ;
     background: rgb(46, 39, 18);
 }
